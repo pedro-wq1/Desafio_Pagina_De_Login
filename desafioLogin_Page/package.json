@@ -1,0 +1,13 @@
+{
+  "name": "login-access-token",
+  "version": "1.0.0",
+  "description": "Pagina de login que recebe um access_token da API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
